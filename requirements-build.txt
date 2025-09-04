@@ -1,0 +1,10 @@
+# Build requirements for Mesh Network Application
+pyinstaller>=5.13.0
+auto-py-to-exe>=2.40.0  # Optional GUI for PyInstaller
+
+# Runtime requirements (these will be bundled)
+# Add your mesh network dependencies here when implemented
+# cryptography>=41.0.0  # For encryption
+# socket  # Built-in
+# threading  # Built-in
+# json  # Built-in
